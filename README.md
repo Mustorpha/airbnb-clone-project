@@ -119,8 +119,8 @@ airbnb_clone/
 ### 🖥 Local Development Setup
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/airbnb-clone-django.git
-   cd airbnb-clone-django
+   git clone https://github.com/Mustorpha/airbnb-clone-project.git
+   cd airbnb-clone-project
 
 2. **Create and activate a virtual environment**
    python -m venv venv  
